@@ -8894,9 +8894,9 @@
     "restore": {
       "projectUniqueName": "тест",
       "projectName": "тест",
-      "projectPath": "C:\\Users\\Andrew\\Documents\\UiPath\\тест\\.local",
+      "projectPath": "C:\\Users\\Andrew\\my_data\\Work\\деп мос\\uipath\\.local",
       "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrew\\Documents\\UiPath\\тест\\.local",
+      "outputPath": "C:\\Users\\Andrew\\my_data\\Work\\деп мос\\uipath\\.local",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ]
